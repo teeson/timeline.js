@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch localhost",
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "url": "${workspaceFolder}/demo.html",
+            "pathMappings": [{
+                "url": "${workspaceFolder}",
+                "path": "${workspaceFolder}"
+            }]
+        }
+    ]
+}
