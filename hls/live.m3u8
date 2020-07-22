@@ -1,0 +1,24 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:2, no desc
+GOP-000001.ts
+#EXTINF:2, no desc
+GOP-000002.ts
+#EXTINF:2, no desc
+GOP-000003.ts
+#EXTINF:2, no desc
+GOP-000004.ts
+#EXTINF:2, no desc
+GOP-000005.ts
+#EXTINF:2, no desc
+GOP-000006.ts
+#EXTINF:2, no desc
+GOP-000007.ts
+#EXTINF:2, no desc
+GOP-000008.ts
+#EXTINF:2, no desc
+GOP-000009.ts
+#EXTINF:2, no desc
+GOP-000010.ts
